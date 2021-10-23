@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "This is my first testing",
+  "main": "testing.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Shivam Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
